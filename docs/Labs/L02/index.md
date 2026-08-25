@@ -1,13 +1,6 @@
-# A2 – Truss Stress Analysis
+Individual Research DfAM
 
-## Objective
-
-
-## Analyze
+A common Design for Additive Manufacturing guideline is the **45-degree rule**. For many 3D-printing processes, surfaces angled about 45° or more from the build plate can support themselves, while shallower overhangs may require extra support material. This matters because reducing supports can save material, shorten printing time, and reduce the work needed after printing.
 
 
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
 
