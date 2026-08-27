@@ -6,5 +6,5 @@ Individual Research: FDM
 
 Warping is an issue in FDM printing where the plastic shrinks as it cools, which can cause the corners of a part to lift off the print bed. A designer can reduce warping by avoiding sharp corners when possible, improving the part’s contact with the build plate, or using features such as a brim to help hold the part down during printing.
 
-
+Two things that I learned was how changing the orientation of a part can reduce the amount of support material needed during printing. Also, I learned that using a heated print bed can help prevent warping by keeping the bottom of the part warm. 
 
