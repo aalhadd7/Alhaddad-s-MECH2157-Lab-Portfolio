@@ -51,9 +51,6 @@ The cable holder was scaled down in PrusaSlicer. The main reason for scaling the
 Since this part was being used to demonstrate the FDM printing process, it did not need to remain at its original size. Scaling it down also reduced the amount of PLA needed.
 
 
-<img width="342" height="385" alt="Screenshot 2026-09-01 at 11 57 41 AM" src="https://github.com/user-attachments/assets/2be43cc8-95df-43ab-8681-7a58fa9edc7a" />
-
-
 ### Build Orientation
 
 I oriented the cable holder so that its flat surface was placed against the build plate. This provided a stable base for the model and helped with adhesion during the beginning of the print.
