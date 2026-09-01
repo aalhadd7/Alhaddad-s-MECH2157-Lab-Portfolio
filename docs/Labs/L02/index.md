@@ -88,13 +88,7 @@ After the settings were selected, PrusaSlicer converted the STL model into G-cod
 
 After slicing the model, I reviewed the PrusaSlicer preview to make sure the model would print correctly.
 
-An earlier PrusaSlicer setup showed an estimated printing time of approximately **21 minutes**.
-
-After the models were scaled and the final group print was prepared, all **four parts were placed into the same print job**.
-
-The final print took approximately **13 minutes total for all four parts**, which was well below the assignment limit of 1.5 hours.
-
-The slicing process also allowed me to see how the printer would create the different sections of the model, including the perimeters, infill, solid infill, and bridges.
+An earlier PrusaSlicer setup showed an estimated printing time of approximately 21 minuets. After the models were scaled and the final group print was prepared, all **four parts were placed into the same print job**. The final print took approximately 13 minuets total for all four parts, which was well below the assignment limit of 1.5 hours. The slicing process also allowed me to see how the printer would create the different sections of the model, including the perimeters, infill, solid infill, and bridges.
 
 
 ## Print
