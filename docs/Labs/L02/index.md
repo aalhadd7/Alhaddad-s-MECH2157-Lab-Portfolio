@@ -17,13 +17,14 @@ This is the first design I wanted to print out. I alway loved fidget spinners as
 
 I decided to use a cable holder because it had a simple design, had a suitable surface to print from, and could easily be scaled down to meet the size requirements of the assignment. Its small size also helped keep the printing time short and it doesn't need any support.
 
-### Cable Holder Final Pick
+### Cable Holder 
 
 The Cable Holder was downloaded from Printables as an STL file using the following link:
 
 https://www.printables.com/model/206748-cable-holder/files
 
-<img width="628" height="460" alt="Screenshot 2026-09-01 at 11 37 39 AM" src="https://github.com/user-attachments/assets/f449b8d7-b685-4369-ab38-841270ea970e" />
+
+<img width="964" height="720" alt="Screenshot 2026-09-01 at 12 14 09 PM" src="https://github.com/user-attachments/assets/19885d9b-4902-40a8-a6de-d6f2d188503b" />
 
 I chose the cable holder because it had a relatively simple design and could easily be scaled down to meet the size requirements of the assignment. It also had a suitable surface to build from and could be printed quickly.
 
@@ -137,9 +138,8 @@ Once the correct temperatures were reached, the printer began creating the four 
 
 During the print, we monitored the printer to make sure that the parts were properly adhering to the build plate and that there were no additional errors.
 
-![Printing Process](INSERT-IMAGE-PATH-HERE)
 
-The printing process took approximately **13 minutes for all four parts**.
+The printing process took approximately 25 minutes with the first printer error. 
 
 A short video of approximately 15 seconds was also taken during the printing process to document the printer operating.
 
