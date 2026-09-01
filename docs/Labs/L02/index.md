@@ -58,6 +58,8 @@ After downloading the STL file, my group imported our models into PrusaSlicer. M
 The cable holder was scaled down in PrusaSlicer. The main reason for scaling the model was to make sure it met the required dimensions while also keeping the printing time relatively short.
 
 Since this part was being used to demonstrate the FDM printing process, it did not need to remain at its original size. Scaling it down also reduced the amount of PLA needed.
+
+
 <img width="342" height="385" alt="Screenshot 2026-09-01 at 11 57 41 AM" src="https://github.com/user-attachments/assets/2be43cc8-95df-43ab-8681-7a58fa9edc7a" />
 
 
@@ -151,19 +153,26 @@ The printing process took approximately **13 minutes for all four parts**.
 
 A short video of approximately 15 seconds was also taken during the printing process to document the printer operating.
 
-**Video:** [INSERT VIDEO OR VIDEO LINK HERE]
+**Video:** 
+
+https://github.com/user-attachments/assets/edadae72-0308-43d2-a1e7-dc9cccef4506
+
+
 
 
 
 ### Completed Print
 
-The second printer successfully completed the print.
+The second printer successfully completed the print. This is a front and back picture of the completed print. 
 
-![Completed Cable Holder](INSERT-IMAGE-PATH-HERE)
+<img width="378" height="262" alt="Screenshot 2026-09-01 at 12 08 16 PM" src="https://github.com/user-attachments/assets/7c3af359-7ddd-4457-a078-24fa58353859" />
+
+<img width="247" height="210" alt="Screenshot 2026-09-01 at 12 08 38 PM" src="https://github.com/user-attachments/assets/21579921-fa4c-489a-9ee9-27c86a3bd49c" />
+
+
 
 The final cable holder met the size and printing-time requirements for the assignment. The finished physical part was also brought to lab as required.
 
----
 
 ## Partners and Acknowledgements
 
@@ -213,9 +222,7 @@ I would also spend more time comparing different scales and orientations in Prus
 
 ## Total Time
 
-The **final printing process took approximately 13 minutes for all four parts**.
-
-Additional time was required for searching for a model, downloading the STL file, preparing the models in PrusaSlicer, and troubleshooting the first printer.
+The Entire project took us about 45 minutes. From downloading the file to completing the print. Time was required for searching for a model, downloading the STL file, preparing the models in PrusaSlicer, and troubleshooting the first printer.
 
 ---
 
@@ -225,3 +232,4 @@ Additional time was required for searching for a model, downloading the STL file
 - **Cable Holder Model:** https://www.printables.com/model/206748-cable-holder/files
 - **PrusaSlicer** – Used to scale, orient, slice, and convert the STL files into G-code.
 - **UNCC Rapid Lab** – FDM printer and PLA material used to manufacture the final parts.
+- Professor Fagan
