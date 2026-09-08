@@ -95,7 +95,7 @@ The estimated print time in PrusaSlicer was **20 Minutes**, and the actual print
 <img width="190" height="157" alt="Screenshot 2026-09-08 at 12 14 37 PM" src="https://github.com/user-attachments/assets/b370a924-91f5-4480-89b2-25b2fd601e58" />
 
 
-A video showing the 3D printing operation or finished component was also uploaded to the GitHub portfolio.
+A quick video of my groups Lab 3 print.
 
 
 
