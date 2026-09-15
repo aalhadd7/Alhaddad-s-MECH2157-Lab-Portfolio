@@ -1,4 +1,4 @@
-# Lab 3 – Pull Strength Test
+# Lab 4 – Pull Strength Test
 
 ## Parameter and Prediction
 
