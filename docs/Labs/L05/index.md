@@ -172,10 +172,18 @@ A short video was recorded to demonstrate the snap-fit assembly being installed 
 
 ## Mistakes, Changes, and Lessons Learned
 
-One of the most important parts of the design was maintaining enough clearance between the lid and base. The 0.20 mm offset was used because printed components cannot be expected to fit properly if the CAD surfaces are modeled directly on top of each other.
+### Lessons Learned
 
-Using Mirror in SolidWorks was also useful because the same snap feature was required on both sides. Instead of independently recreating the second snap, mirroring the original feature kept the design symmetric and reduced the possibility of introducing a different dimension on the opposite side.
+One of the most important parts of the design was maintaining enough clearance between the lid and base. The 0.20 mm offset was used because printed components cannot be expected to fit properly if the CAD surfaces are modeled directly on top of each other. Using Mirror in SolidWorks was also useful because the same snap feature was required on both sides. Instead of independently recreating the second snap, mirroring the original feature kept the design symmetric and reduced the possibility of introducing a different dimension on the opposite side. The project also demonstrated that print orientation has to be considered as part of the mechanical design rather than only as a slicer setting. Because FDM parts are built in layers, the orientation of a flexible feature can affect whether it bends through the material or separates between layers. This was considered when laying out the parts for printing. The final design combined the hand calculations, parametric SolidWorks model, engineered clearance, mirrored snap geometry, and PrusaSlicer settings into a two-component snap-fit box that could be physically assembled and tested. Engineering is always about finding innovative ways to make our lives easier and to find the most effective way to carry out a step. 
 
-The project also demonstrated that print orientation has to be considered as part of the mechanical design rather than only as a slicer setting. Because FDM parts are built in layers, the orientation of a flexible feature can affect whether it bends through the material or separates between layers. This was considered when laying out the parts for printing.
+### Mistakes
 
-The final design combined the hand calculations, parametric SolidWorks model, engineered clearance, mirrored snap geometry, and PrusaSlicer settings into a two-component snap-fit box that could be physically assembled and tested.
+After completing the part I realized that I needed to find a way to export the STL files in their two separate bodies rather than the whole thing, I soon learned that after doing my first export. Exporting them as one body would not only call for me to add supports but it defeats the purpose of this task. I went back into solid works and carried out the following steps to export the body parts separately:
+
+Insert --> Features --> Save bodies... 
+
+I then selected the Lid; saved that as its own .sldprt file and likewise with the Body. After that I then saved it as an STL file and that that imported into PrusaSlicer. 
+
+### Changes
+
+One change I had to make was switching the printer filament setting to PLA so the slicer matched the material actually being used. This made sure the temperature and print settings were appropriate for the final part.
