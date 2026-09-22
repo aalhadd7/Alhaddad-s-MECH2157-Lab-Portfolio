@@ -153,7 +153,7 @@ Supports were not used in the slicer setup shown. The parts were oriented so tha
 
 ## Printing and Snap-Fit Test
 
-After printing, the base and lid were inspected separately before assembly. The 0.20 mm mating clearance was intended to allow the lid to fit over the base without requiring an exact interference fit.
+After printing, the base and lid were inspected separately before assembly. The 0.20 mm mating clearance was intended to allow the lid to fit over the base without requiring an exact interference fit. Before printing, I changed the filament loaded in the printer to PLA so it matched the material selected in PrusaSlicer. The printer used was the **Prusa CORE ONE PL_05**, matching the printer name provided on the thumb drive. I then confirmed the PLA settings, sliced both components, and exported the finished print file.
 
 <img width="347" height="337" alt="Screenshot 2026-09-22 at 12 50 49 PM" src="https://github.com/user-attachments/assets/8fb6afdb-11ef-4393-b63b-da63c1a34716" />
 
