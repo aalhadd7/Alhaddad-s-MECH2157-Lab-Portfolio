@@ -6,7 +6,7 @@ After reading Great Questions Lead to Great Design: A Guide to the Design-thinki
 
 ## 2. Problem Statement 
 
-My original idea was to design a sock holder for my closet to keep my socks organized. However, after creating the model in SolidWorks, I realized that printing it at its original size would take over 15 hours. Instead of starting over, I decided to scale the model down and turn it into a desk organizer. I plan to use it to hold my keys, AirPods, cologne, and other small belongings so that my desk stays cleaner. I spent about one hour deciding what I wanted to create and researching ideas for a functional design. I wanted something simple, practical, and easy to print. Although I designed it for myself, it could also be useful for students or anyone who wants to organize smaller items on their desk.
+My original idea was to design a sock holder for my closet to keep my socks organized. However, after creating the model in SolidWorks, I realized that printing it at its original size would take over 15 hours. Instead of starting over, I decided to scale the model down and turn it into a desk organizer. I plan to use it to hold my keys, AirPods, small cologne, and other small belongings so that my desk stays cleaner. I spent about one hour deciding what I wanted to create and researching ideas for a functional design. I wanted something simple, practical, and easy to print. Although I designed it for myself, it could also be useful for students or anyone who wants to organize smaller items on their desk.
 
 ## 3. Design Process – SolidWorks 
 
