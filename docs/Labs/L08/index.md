@@ -148,10 +148,6 @@ I recorded the printing process to document how the organizer was manufactured u
 
 
 
-https://github.com/user-attachments/assets/e219a0ab-094f-4020-9086-07adbb19b7a1
-
-
-
 
 ### Final 3D Printed Product
 
@@ -161,11 +157,11 @@ The surface finish can be evaluated by checking for visible layer lines, rough e
 
 **Figure 12 – Final printed organizer (front view)**
 
-![Final Print Front View]
+[Final Print Front View]
 
 **Figure 13 – Final printed organizer (side or top view)**
 
-![Final Print Side View]
+[Final Print Side View]
 
 
 ## 5. Lessons Learned 
