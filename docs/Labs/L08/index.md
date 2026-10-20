@@ -157,11 +157,13 @@ The surface finish can be evaluated by checking for visible layer lines, rough e
 
 **Figure 12 – Final printed organizer (front view)**
 
-[Final Print Front View]
+<img width="426" height="414" alt="Screenshot 2026-10-20 at 1 43 03 PM" src="https://github.com/user-attachments/assets/e702b1e3-581e-47db-9343-ede96d6e3d10" />
 
-**Figure 13 – Final printed organizer (side or top view)**
 
-[Final Print Side View]
+**Figure 13 – Final printed organizer (top view)**
+
+<img width="616" height="494" alt="Screenshot 2026-10-20 at 1 44 20 PM" src="https://github.com/user-attachments/assets/f09bf952-960f-447a-ac0b-8a282b3c44b2" />
+
 
 
 ## 5. Lessons Learned 
