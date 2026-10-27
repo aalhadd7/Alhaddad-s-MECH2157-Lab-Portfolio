@@ -254,3 +254,9 @@ Below is a 15-second clip showing the laser cutter manufacturing the wooden comp
 
 <img width="180" height="320" alt="IMG_2604" src="https://github.com/user-attachments/assets/70f74ecb-d906-479d-a28d-79267c7eaa2c" />
 
+## SolidWorks CAD File
+
+The SolidWorks file for my parametric construction kit is included below. This file contains my original designs, dimensions, and global variables used to control the slot widths and connections.
+
+📁 [Download My SolidWorks CAD File](LAB%209.SLDPRT)
+
