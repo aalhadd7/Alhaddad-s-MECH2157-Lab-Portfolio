@@ -251,13 +251,7 @@ The updated design includes a triangular cut angle of 31.44° and a square openi
 
 #### 3.2 Parametric Design
 
-I used dimensioned sketches in SolidWorks to control the geometry of the prototype. This allowed me to adjust the lengths of the support, the angle of the triangular cut, and the size of the opening where the hook attaches.
-
-These dimensions made it easier to modify the model without starting the design from the beginning.
-
-**INSERT SCREENSHOT HERE**
-
-- Image 12 – SolidWorks equations or global-variable feature showing a dimension controlled by a parameter
+I used dimensioned sketches in SolidWorks to control the geometry of the prototype. This allowed me to adjust the lengths of the support, the angle of the triangular cut, and the size of the opening where the hook attaches. Since it was a simpler design and project I did not need to make a global equation chart. 
 
 ### 4. Manufacturing the Refined Prototype
 
