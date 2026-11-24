@@ -361,7 +361,11 @@ This presentation summarizes the problem, the design solution, the FDM and SLA m
 
 For my final video, I will summarize the entire project, including the original problem, design development, manufacturing processes, and final prototype. The video will show how I used FDM printing to create the attachment and SLA printing to manufacture the hook. It will also explain the improvements I made based on peer feedback and testing.
 
-**INSERT VIDEO 2 – FINAL 1–2 MINUTE PROJECT PRESENTATION**
+
+[Watch Final Project Video](final%20vid.mov)
+
+This video demonstrates my final shower loofah holder, including the design process, FDM and SLA printing, improvements based on peer feedback, and the completed prototype.
+
 
 ### 9. Final Reflection
 
