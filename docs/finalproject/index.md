@@ -1,4 +1,5 @@
-# MEGR 2156 – Final Project (1/2): Shower Loofah Holder
+# MEGR 2156 – Final Project: Shower Loofah Holder
+## Define the Product and Rough Prototype 
 
 ##  Project Overview
 
@@ -172,6 +173,197 @@ In the early phases of projects I like to do a scrape brain dump on a piece of p
 
 ## Reflection and Future Improvements
 
-Throughout this project, I learned how important dimensional accuracy and tolerances are when designing components that fit together. Although the prototype was able to support the loofah, the connections were not as secure as I originally intended. The snap-fit attachment went from being too tight to too loose, showing that small dimensional changes can significantly affect the fit. I also learned that designing an angled support does not automatically guarantee the hook will remain perpendicular if the connection between the parts has too much clearance. For my next iteration, I would focus on adjusting the snap-fit dimensions and improving the connection between the SLA hook and FDM support. I would then test the revised prototype to determine whether the holder remains stable and maintains the correct alignment.
+Throughout this project, I learned how important dimensional accuracy and tolerances are when designing components that fit together. Although the prototype was able to support the loofah, the connections were not as secure as I originally intended. The snap-fit attachment went from being too tight to too loose, showing that small dimensional changes can significantly affect the fit. I also learned that designing an angled support does not automatically guarantee the hook will remain perpendicular if the connection between the parts has too much clearance. For my next iteration, I would focus on adjusting the snap-fit dimensions and improving the connection between the SLA hook and FDM support. I would then test the revised prototype to determine whether the holder remains stable and maintains the correct alignment. Overall, this project gave me experience using two different 3D printing technologies and applying an iterative engineering design process to solve a real-world problem.
 
-Overall, this project gave me experience using two different 3D printing technologies and applying an iterative engineering design process to solve a real-world problem.
+
+# MEGR 2156/7 L3D – Final Project: Shower Loofah Holder
+## Part 2: Prototype Refinement & Final Presentation
+
+### 1. Project Overview
+
+For my final project, I designed a removable shower loofah holder that attaches directly to my shower rod. The purpose of this project was to create a convenient place to hang my loofah without drilling holes or permanently modifying the shower. The main design challenge was that my shower rod is angled downward. To solve this, I designed a snap-fit attachment with a triangular support that allows a separate hook to hang in a more perpendicular position. I used two manufacturing technologies for this project: FDM printing for the snap-fit and support, and SLA printing for the hook. For Part 2, I focused on refining my original design, improving the connections between the parts, and testing the prototype on the actual shower rod.
+
+### 2. Peer Feedback and Reflection
+
+During my Part 1 presentation, I received feedback from three classmates. Overall, they thought the problem was clearly defined and the design was practical. However, they also identified some areas that needed improvement.
+
+#### Peer Feedback
+
+**Candy Vasquez**
+
+Candy mentioned that the design was easy to understand and could potentially hold other items besides a loofah. She also raised concerns about the tolerances between the FDM and SLA components.
+
+**Austin Williams**
+
+Austin thought the solution was practical but questioned whether the snap-fit would attach securely to the shower rod. He suggested making the connection tighter to prevent movement.
+
+**Kaileigh Hill**
+
+Kaileigh liked the triangular design and suggested making the fit tighter or potentially adding a counterweight to improve stability.
+
+<img width="487" height="561" alt="Screenshot 2026-11-23 at 9 11 04 PM" src="https://github.com/user-attachments/assets/4d45eb3e-55ed-4b5c-9a84-d74c9bb2c25c" />
+
+
+<img width="460" height="553" alt="Screenshot 2026-11-23 at 9 11 13 PM" src="https://github.com/user-attachments/assets/e84756a5-720d-419d-981c-4be36cfedb3f" />
+
+
+<img width="450" height="194" alt="Screenshot 2026-11-23 at 9 11 20 PM" src="https://github.com/user-attachments/assets/a0bda49e-ce0b-45cc-9586-58e48eb6cf4a" />
+
+
+<img width="472" height="590" alt="Screenshot 2026-11-23 at 9 11 36 PM" src="https://github.com/user-attachments/assets/9b367e84-4d0e-4104-bc86-140f3490493e" />
+
+
+<img width="466" height="268" alt="Screenshot 2026-11-23 at 9 11 47 PM" src="https://github.com/user-attachments/assets/fe281be4-0385-4a7b-9b44-a5171259a129" />
+
+
+
+#### Individual Reflection
+
+After reviewing the feedback, I realized that the main issue was the fit between the components rather than the overall design. During my initial testing, the snap-fit went from being too tight to too loose after adjustments. The connection where the SLA hook attaches to the FDM support also had too much movement, preventing the hook from maintaining its intended position. Based on the feedback, I decided to focus on improving the geometry of the FDM component rather than redesigning the entire assembly.
+
+### 3. Prototype Refinement
+
+#### 3.1 SolidWorks Design Modifications
+
+For Part 2, I returned to SolidWorks and modified my SDP_FD1 model.
+
+I made three main changes:
+
+1. Shortened one side of the snap-fit geometry to adjust how it connects to the shower rod.
+2. Extended the section where the SLA hook inserts into the FDM support to improve the connection.
+3. Changed the angle of the triangular cut to improve the positioning of the hook.
+
+The updated design includes a triangular cut angle of 31.44° and a square opening dimensioned at 0.51 × 0.51 inches. These modifications were intended to address the concerns about the snap-fit connection, stability, and tolerances between the printed components.
+
+<img width="609" height="488" alt="Unknown" src="https://github.com/user-attachments/assets/ce1e0641-3ec9-4352-b7d4-0d0f58fc70b8" />
+
+
+<img width="761" height="423" alt="Unknown-1" src="https://github.com/user-attachments/assets/0cba243e-babc-4a2a-8504-e73c772b01bb" />
+
+
+<img width="803" height="368" alt="Unknown-2" src="https://github.com/user-attachments/assets/7e6e50ce-deaf-4f91-ab20-f5ed7a6343a4" />
+
+
+<img width="805" height="386" alt="Unknown-3" src="https://github.com/user-attachments/assets/ed07d5b1-dfa9-493f-9cdb-6f9949bc3037" />
+
+
+<img width="684" height="422" alt="Unknown-4" src="https://github.com/user-attachments/assets/58daf48a-be0a-4b71-8611-169944906148" />
+
+
+<img width="808" height="430" alt="Unknown-5" src="https://github.com/user-attachments/assets/b8498e30-3569-4dcc-9026-b7b479f82adf" />
+
+
+#### 3.2 Parametric Design
+
+I used dimensioned sketches in SolidWorks to control the geometry of the prototype. This allowed me to adjust the lengths of the support, the angle of the triangular cut, and the size of the opening where the hook attaches.
+
+These dimensions made it easier to modify the model without starting the design from the beginning.
+
+**INSERT SCREENSHOT HERE**
+
+- Image 12 – SolidWorks equations or global-variable feature showing a dimension controlled by a parameter
+
+### 4. Manufacturing the Refined Prototype
+
+#### 4.1 FDM Printing
+
+After completing the SolidWorks modifications, I exported the refined model into PrusaSlicer and prepared it for FDM printing.
+
+I used the Prusa CORE One printer with the following settings:
+
+- Material: PLA
+- Layer height: 0.20 mm
+- Infill density: 15%
+- Infill pattern: Grid
+- Perimeters: 2
+- Supports: Enabled
+- Support style: Snug
+
+The estimated printing time was approximately 38 minutes, with 18.08 grams of filament.
+
+<img width="884" height="442" alt="Unknown-6" src="https://github.com/user-attachments/assets/d083c63e-8252-4081-977c-75ee70bf5847" />
+
+
+<img width="887" height="451" alt="Unknown-7" src="https://github.com/user-attachments/assets/26e50378-ead6-402a-9e38-b66164bdbb1e" />
+
+
+<img width="500" height="537" alt="Unknown-8" src="https://github.com/user-attachments/assets/889959e5-0ce7-480d-9f6b-a27f8c953d52" />
+
+
+<img width="569" height="460" alt="Unknown-9" src="https://github.com/user-attachments/assets/2d3d0e8c-aa85-4f4e-b5c9-4dd4824145d1" />
+
+
+<img width="549" height="617" alt="Unknown-10" src="https://github.com/user-attachments/assets/8b217751-52c7-430b-b1ba-db4fe9e004ec" />
+
+
+
+#### 4.2 FDM Printing Video
+
+I also recorded a video showing the updated component being manufactured using FDM printing.
+
+<img width="260" height="462" alt="b6lit8" src="https://github.com/user-attachments/assets/5ea060c9-dac4-47b5-960f-fa7aa854c842" />
+
+
+#### 4.3 Completed FDM Print
+
+After printing the updated model, I inspected the physical component and compared it to the previous version. The revised print included the shorter snap-fit section, extended hook connection, and modified triangular geometry.
+
+<img width="224" height="222" alt="Unknown-11" src="https://github.com/user-attachments/assets/afddaf7d-844d-44a3-a31c-1488a0f2ea4f" />
+
+#### 4.4 SLA Hook
+
+I kept the original SLA-printed hook from Part 1 because my main focus was improving the FDM support. I did not redesign or reprint the SLA hook during Part 2. Instead, I modified the FDM component to improve its compatibility with the existing hook.
+
+<img width="301" height="276" alt="Unknown-16" src="https://github.com/user-attachments/assets/1a396174-db97-49e8-ac09-245ba3128d20" />
+
+### 5. Final Prototype Assembly and Testing
+
+#### 5.1 Final Assembly
+
+After manufacturing the updated FDM component, I assembled it with the original SLA hook and installed the prototype on the shower rod. The FDM attachment connects around the rod, while the hook is inserted into the opening in the angled support.
+
+The triangular support compensates for the rod's downward slope, allowing the hook to extend outward and provide a place to hang the loofah.
+
+<img width="470" height="495" alt="Screenshot 2026-11-23 at 11 13 18 PM" src="https://github.com/user-attachments/assets/53590fc3-d2f5-454f-a9aa-bdcd0eba3c7d" />
+
+
+<img width="398" height="404" alt="Screenshot 2026-11-23 at 11 13 30 PM" src="https://github.com/user-attachments/assets/86c8db87-a861-4797-9b43-1ccf28f2ca24" />
+
+
+<img width="243" height="265" alt="Screenshot 2026-11-23 at 11 13 48 PM" src="https://github.com/user-attachments/assets/b9ec1e5e-c816-4153-be2c-f9b715cec5a7" />
+
+
+<img width="248" height="228" alt="Screenshot 2026-11-23 at 11 13 39 PM" src="https://github.com/user-attachments/assets/e411e5cf-703e-4dcc-953c-e509f732b699" />
+
+
+
+#### 5.2 Testing Results
+
+The updated prototype was assembled and tested on the actual shower rod with the loofah attached. The final photos show that the revised support can be installed on the rod and that the SLA hook can hold the loofah. The adjustments to the geometry allowed me to assemble the updated support with the original SLA hook. The hook also appears closer to the intended horizontal orientation in the installed side view. Although the prototype demonstrates the intended function, further testing would be needed to determine how securely it remains attached during repeated use and whether the connections maintain their position over time.
+
+### 6. Assembly and Use Instructions
+
+1. Position the FDM snap-fit attachment around the shower rod.
+2. Carefully press the attachment onto the rod until it is seated.
+3. Insert the SLA hook into the opening in the triangular support.
+4. Check that both components are properly connected.
+5. Hang the loofah from the hook.
+6. Check that the holder remains in place and supports the loofah.
+
+The design can be installed without permanently modifying the shower.
+
+### 7. Final Presentation Preparation
+
+For my final presentation, I prepared a one-slide summary explaining the problem, my manufactured solution, and the improvements made during the design process. The presentation focuses on the angled shower rod, the snap-fit attachment, and how I used FDM and SLA printing to create the prototype.
+
+**INSERT FINAL PRESENTATION SLIDE HERE**
+
+### 8. Final Video Presentation
+
+For my final video, I will summarize the entire project, including the original problem, design development, manufacturing processes, and final prototype. The video will show how I used FDM printing to create the attachment and SLA printing to manufacture the hook. It will also explain the improvements I made based on peer feedback and testing.
+
+**INSERT VIDEO 2 – FINAL 1–2 MINUTE PROJECT PRESENTATION**
+
+### 9. Final Reflection
+
+Throughout this project, I learned how important dimensional accuracy and tolerances are when designing parts that need to connect. During Part 1, I encountered problems with the snap-fit being too tight and then too loose. The connection between the hook and triangular support also allowed movement, preventing the hook from staying in its intended position. After receiving peer feedback, I modified the FDM component by shortening one side, extending the hook connection, and adjusting the triangular cut angle. The final prototype was able to hold the loofah on the shower rod, demonstrating the basic functionality of my design. If I continued improving the design, I would focus on further testing the stability of the snap-fit and reducing any remaining movement between the hook and support. Overall, this project gave me experience using SolidWorks, FDM printing, SLA printing, and the iterative engineering design process to develop a practical solution to an everyday problem.
