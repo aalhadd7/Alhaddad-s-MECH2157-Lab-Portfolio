@@ -1,5 +1,5 @@
-# MEGR 2156 – Final Project: Shower Loofah Holder
-## Part 1:Define the Product and Rough Prototype 
+# MEGR 2156/7 L3D – Final Project: Shower Loofah Holder
+## Part 1: Define the Problem and Rough Prototype 
 
 ###  Project Overview
 
@@ -367,4 +367,12 @@ For my final video, I will summarize the entire project, including the original 
 
 Throughout this project, I learned how important dimensional accuracy and tolerances are when designing parts that need to connect. During Part 1, I encountered problems with the snap-fit being too tight and then too loose. The connection between the hook and triangular support also allowed movement, preventing the hook from staying in its intended position. After receiving peer feedback, I modified the FDM component by shortening one side, extending the hook connection, and adjusting the triangular cut angle. The final prototype was able to hold the loofah on the shower rod, demonstrating the basic functionality of my design. If I continued improving the design, I would focus on further testing the stability of the snap-fit and reducing any remaining movement between the hook and support. Overall, this project gave me experience using SolidWorks, FDM printing, SLA printing, and the iterative engineering design process to develop a practical solution to an everyday problem.
 
+
+### SolidWorks Design Files
+
+- [SDP_FD1 – Original FDM Design](SDP_FD1.SLDPRT)
+- [SDP_FD2 – Refined FDM Design](SDP_FD2.SLDPRT)
+- [SDP_HOOK – SLA Hook Design](SDP_HOOK.SLDPRT)
+
+These SolidWorks files include the original FDM design, the refined FDM design based on peer feedback, and the SLA-printed hook used in the final assembly.
 
